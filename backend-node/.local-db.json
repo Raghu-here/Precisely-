@@ -1,0 +1,54 @@
+{
+  "jobs": [
+    {
+      "title": "Senior Ai ",
+      "description": "",
+      "must_have_skills": [
+        "Python"
+      ],
+      "salary": "123",
+      "location": "Chandigarh ",
+      "job_type": "Full-time",
+      "experience_level": "Entry Level",
+      "deadline": "2026-05-01",
+      "recruiterId": "mock_user_id_3893",
+      "recruiterEmail": "raghurajsingh152007@gmail.com",
+      "status": "Active",
+      "createdAt": "2026-04-13T03:48:58.264Z",
+      "job_id": "69de0b346c09e778ae8d6028"
+    }
+  ],
+  "dossiers": [],
+  "users": [
+    {
+      "email": "raghurajsingh15007@gmail.com",
+      "role": "Candidate",
+      "passwordHash": "$2b$12$ATCwT1MUQiSj4Nptki1p6OqLYMm.09GfsSOiyiQt2db24dIAteTf.",
+      "createdAt": "2026-04-13T03:47:03.730Z"
+    },
+    {
+      "email": "raghurajsingh152007@gmail.com",
+      "role": "HR",
+      "passwordHash": "$2b$12$IjlA0tOj0qk2xLfhr8/HYOxiBmLwO13tgoqi9Mj/yga3o3mdsmEmu",
+      "createdAt": "2026-04-13T03:48:15.815Z"
+    }
+  ],
+  "profiles": [
+    {
+      "fullName": "Raghuraj Singh",
+      "phone": "9817679706",
+      "location": "Chandigarh , India ",
+      "linkedin": "",
+      "github": "",
+      "portfolio": "",
+      "currentJobTitle": "",
+      "skills": [],
+      "experience": "",
+      "bio": "",
+      "email": "raghurajsingh15007@gmail.com",
+      "updatedAt": "2026-04-13T03:47:31.179Z"
+    }
+  ],
+  "applications": [],
+  "interviewResults": []
+}
